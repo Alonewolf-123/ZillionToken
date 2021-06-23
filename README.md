@@ -1,0 +1,2 @@
+# ZillionToken
+ZillionToken Qt Wallet
